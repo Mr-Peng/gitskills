@@ -1,4 +1,4 @@
-$ git clone git@github.com:michaelliao/learngit.git
+改了这一行
 Cloning into 'learngit'...
 remote: Counting objects: 46, done.
 remote: Compressing objects: 100% (26/26), done.
